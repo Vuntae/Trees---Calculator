@@ -41,6 +41,5 @@ Una expresión como `sen(2 + 3)` se representaría en el árbol de análisis sin
 - NodoOperador.java
 
 ## Para ver la documentación 
-- Ubicarse en la carpeta "Tarea-3-Calculadora" con `pwd`
 - Ir a la carpeta "docs" con `cd docs/`
 - Abrir el archivo "allclasses-index.html" con `firefox allclasses-index.html`
